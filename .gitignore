@@ -72,3 +72,16 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Content/Audio/Grunt.uasset
+Content/Audio/PlayerGrunt.uasset
+Content/Characters/Mannequins/Animations/Eve/
+Content/Characters/Mannequins/Animations/NewEnemy/
+Content/Characters/Mannequins/Meshes/Eve_By_J_Gonzales.uasset
+Content/Characters/Mannequins/Meshes/Eve_By_J_Gonzales_PhysicsAsset.uasset
+Content/Characters/Mannequins/Meshes/Eve_By_J_Gonzales_Skeleton.uasset
+Content/Characters/Mannequins/Meshes/SpacePirate_M.uasset
+Content/Characters/Mannequins/Meshes/SpacePirate_diffuse.uasset
+Content/Characters/Mannequins/Meshes/SpacePirate_normal.uasset
+Content/Characters/Mannequins/Meshes/SpacePirate_specular.uasset
+Windows/
